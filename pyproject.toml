@@ -11,5 +11,8 @@ license = { text = "AGPL-3.0" }
 requires-python = ">=3.10"
 dependencies = []
 
+[tool.bench.frappe-dependencies]
+  frappe = ">=16.0.0"
+
 [project.urls]
 Homepage = "https://github.com/palkanp/Letters"
